@@ -1,0 +1,300 @@
+[class^="_icon-"]:before,
+[class*=" _icon-"]:before {
+  font-family: "icons";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="_icon-"]:before,
+[class*=" _icon-"]:before {
+  display: block;
+}
+
+._icon-shopping-bag:before {
+  content: "\e935";
+}
+._icon-wall-clock:before {
+  content: "\e936";
+}
+._icon-youtube:before {
+  content: "\e93b";
+}
+._icon-Hand .path1:before {
+  content: "\e900";
+  color: rgb(227, 199, 98);
+}
+._icon-Hand .path2:before {
+  content: "\e901";
+  margin-left: -1.1689453125em;
+  color: rgb(227, 199, 98);
+}
+._icon-Hand .path3:before {
+  content: "\e902";
+  margin-left: -1.1689453125em;
+  color: rgb(255, 229, 137);
+}
+._icon-Hand .path4:before {
+  content: "\e903";
+  margin-left: -1.1689453125em;
+  color: rgb(227, 199, 98);
+}
+._icon-Hand .path5:before {
+  content: "\e904";
+  margin-left: -1.1689453125em;
+  color: rgb(67, 186, 127);
+}
+._icon-Hand .path6:before {
+  content: "\e905";
+  margin-left: -1.1689453125em;
+  color: rgb(90, 203, 147);
+}
+._icon-Hand .path7:before {
+  content: "\e906";
+  margin-left: -1.1689453125em;
+  color: rgb(167, 169, 190);
+}
+._icon-Hand .path8:before {
+  content: "\e907";
+  margin-left: -1.1689453125em;
+  color: rgb(153, 155, 160);
+}
+._icon-Hand .path9:before {
+  content: "\e908";
+  margin-left: -1.1689453125em;
+  color: rgb(153, 155, 160);
+}
+._icon-Hand .path10:before {
+  content: "\e909";
+  margin-left: -1.1689453125em;
+  color: rgb(153, 155, 160);
+}
+._icon-Hand .path11:before {
+  content: "\e90a";
+  margin-left: -1.1689453125em;
+  color: rgb(0, 0, 0);
+}
+._icon-Hand .path12:before {
+  content: "\e90b";
+  margin-left: -1.1689453125em;
+  color: rgb(0, 0, 0);
+}
+._icon-Mobile .path1:before {
+  content: "\e90c";
+  color: rgb(167, 169, 190);
+}
+._icon-Mobile .path2:before {
+  content: "\e90d";
+  margin-left: -0.599609375em;
+  color: rgb(154, 155, 158);
+}
+._icon-Mobile .path3:before {
+  content: "\e90e";
+  margin-left: -0.599609375em;
+  color: rgb(250, 230, 162);
+}
+._icon-Mobile .path4:before {
+  content: "\e90f";
+  margin-left: -0.599609375em;
+  color: rgb(236, 210, 121);
+}
+._icon-Mobile .path5:before {
+  content: "\e910";
+  margin-left: -0.599609375em;
+  color: rgb(253, 126, 65);
+}
+._icon-Mobile .path6:before {
+  content: "\e911";
+  margin-left: -0.599609375em;
+  color: rgb(212, 129, 69);
+}
+._icon-Mobile .path7:before {
+  content: "\e912";
+  margin-left: -0.599609375em;
+  color: rgb(253, 126, 65);
+}
+._icon-Mobile .path8:before {
+  content: "\e913";
+  margin-left: -0.599609375em;
+  color: rgb(253, 126, 65);
+}
+._icon-Mobile .path9:before {
+  content: "\e914";
+  margin-left: -0.599609375em;
+  color: rgb(193, 92, 43);
+}
+._icon-Mobile .path10:before {
+  content: "\e915";
+  margin-left: -0.599609375em;
+  color: rgb(208, 109, 74);
+}
+._icon-Mobile .path11:before {
+  content: "\e916";
+  margin-left: -0.599609375em;
+  color: rgb(67, 186, 127);
+}
+._icon-Mobile .path12:before {
+  content: "\e917";
+  margin-left: -0.599609375em;
+  color: rgb(0, 0, 0);
+}
+._icon-Mobile .path13:before {
+  content: "\e918";
+  margin-left: -0.599609375em;
+  color: rgb(0, 0, 0);
+}
+._icon-Mobile .path14:before {
+  content: "\e919";
+  margin-left: -0.599609375em;
+  color: rgb(0, 0, 0);
+}
+._icon-Mobile .path15:before {
+  content: "\e91a";
+  margin-left: -0.599609375em;
+  color: rgb(0, 0, 0);
+}
+._icon-Mobile .path16:before {
+  content: "\e91b";
+  margin-left: -0.599609375em;
+  color: rgb(0, 0, 0);
+}
+._icon-Moto .path1:before {
+  content: "\e91c";
+  color: rgb(253, 126, 65);
+}
+._icon-Moto .path2:before {
+  content: "\e91d";
+  margin-left: -1.2421875em;
+  color: rgb(253, 126, 65);
+}
+._icon-Moto .path3:before {
+  content: "\e91e";
+  margin-left: -1.2421875em;
+  color: rgb(207, 219, 228);
+}
+._icon-Moto .path4:before {
+  content: "\e91f";
+  margin-left: -1.2421875em;
+  color: rgb(175, 187, 198);
+}
+._icon-Moto .path5:before {
+  content: "\e920";
+  margin-left: -1.2421875em;
+  color: rgb(123, 114, 123);
+}
+._icon-Moto .path6:before {
+  content: "\e921";
+  margin-left: -1.2421875em;
+  color: rgb(104, 97, 105);
+}
+._icon-Moto .path7:before {
+  content: "\e922";
+  margin-left: -1.2421875em;
+  color: rgb(253, 126, 65);
+}
+._icon-Moto .path8:before {
+  content: "\e923";
+  margin-left: -1.2421875em;
+  color: rgb(253, 126, 65);
+}
+._icon-Moto .path9:before {
+  content: "\e924";
+  margin-left: -1.2421875em;
+  color: rgb(253, 126, 65);
+}
+._icon-Moto .path10:before {
+  content: "\e925";
+  margin-left: -1.2421875em;
+  color: rgb(167, 169, 190);
+}
+._icon-Moto .path11:before {
+  content: "\e926";
+  margin-left: -1.2421875em;
+  color: rgb(167, 169, 190);
+}
+._icon-Moto .path12:before {
+  content: "\e927";
+  margin-left: -1.2421875em;
+  color: rgb(239, 239, 239);
+}
+._icon-Moto .path13:before {
+  content: "\e928";
+  margin-left: -1.2421875em;
+  color: rgb(239, 239, 239);
+}
+._icon-Moto .path14:before {
+  content: "\e929";
+  margin-left: -1.2421875em;
+  color: rgb(67, 186, 127);
+}
+._icon-Moto .path15:before {
+  content: "\e92a";
+  margin-left: -1.2421875em;
+  color: rgb(45, 148, 97);
+}
+._icon-Moto .path16:before {
+  content: "\e92b";
+  margin-left: -1.2421875em;
+  color: rgb(255, 229, 137);
+}
+._icon-Moto .path17:before {
+  content: "\e92c";
+  margin-left: -1.2421875em;
+  color: rgb(123, 114, 123);
+}
+._icon-Moto .path18:before {
+  content: "\e92d";
+  margin-left: -1.2421875em;
+  color: rgb(104, 97, 105);
+}
+._icon-Moto .path19:before {
+  content: "\e92e";
+  margin-left: -1.2421875em;
+  color: rgb(67, 186, 127);
+}
+._icon-Moto .path20:before {
+  content: "\e92f";
+  margin-left: -1.2421875em;
+  color: rgb(45, 148, 97);
+}
+._icon-Moto .path21:before {
+  content: "\e930";
+  margin-left: -1.2421875em;
+  color: rgb(255, 229, 137);
+}
+._icon-Moto .path22:before {
+  content: "\e931";
+  margin-left: -1.2421875em;
+  color: rgb(67, 186, 127);
+}
+._icon-Moto .path23:before {
+  content: "\e932";
+  margin-left: -1.2421875em;
+  color: rgb(255, 229, 137);
+}
+._icon-Moto .path24:before {
+  content: "\e933";
+  margin-left: -1.2421875em;
+  color: rgb(67, 186, 127);
+}
+._icon-Moto .path25:before {
+  content: "\e934";
+  margin-left: -1.2421875em;
+  color: rgb(0, 0, 0);
+}
+._icon-fb:before {
+  content: "\e937";
+}
+._icon-instagram:before {
+  content: "\e938";
+}
+._icon-telegram:before {
+  content: "\e939";
+}
+._icon-twiter:before {
+  content: "\e93a";
+}
