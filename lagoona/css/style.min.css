@@ -199,6 +199,7 @@ body._lock {
   display: flex;
   flex-direction: column;
 }
+
 ._container {
   max-width: 1200px;
   margin: 0 auto;
@@ -1244,6 +1245,12 @@ body.ie ._ibg img {
   font-size: 25px;
   color: #999999;
 }
+@media (any-hover: hover) {
+  .social-link:hover {
+    transition: all 0.5s ease 0s;
+    color: #fff;
+  }
+}
 
 .main-body-phone {
   margin: 14px 0 15px 0;
@@ -1747,10 +1754,22 @@ body.ie ._ibg img {
   border-radius: 10px;
   color: #cc9933;
 }
+@media (any-hover: hover) {
+  .placement-button__rooms:hover {
+    transition: all 0.5s ease 0s;
+    color: #fff;
+    background: #cc9933;
+  }
+}
 
 .placement-link a {
   display: flex;
   flex-direction: row-reverse;
+}
+@media (any-hover: hover) {
+  .placement-link a:hover {
+    color: #eac57b;
+  }
 }
 
 .placement-price-blok {
@@ -1943,6 +1962,13 @@ body.ie ._ibg img {
   border: 1px solid #cc9933;
   box-sizing: border-box;
   border-radius: 10px;
+}
+@media (any-hover: hover) {
+  .search-tour__btn:hover {
+    transition: all 0.5s ease 0s;
+    color: #fff;
+    background: #cc9933;
+  }
 }
 
 @media (max-width: 991.98px) {
@@ -2187,6 +2213,13 @@ body.ie ._ibg img {
   border: 1px solid #cc9933;
   box-sizing: border-box;
   border-radius: 10px;
+}
+@media (any-hover: hover) {
+  .contacts-blok__link:hover {
+    transition: all 0.5s ease 0s;
+    color: #fff;
+    background: #cc9933;
+  }
 }
 .contacts-blok__image {
   padding: 0px 0px 81% 0px;
