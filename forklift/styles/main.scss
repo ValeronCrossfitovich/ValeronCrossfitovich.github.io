@@ -1,0 +1,27 @@
+// Переменные, миксины, функции
+@import "helpers/variables";
+@import "helpers/mixins";
+@import "helpers/functions";
+
+// CSS-файлы библиотек
+@import "vendor/libs";
+
+// Основное
+@import "base/fonts";
+@import "base/general";
+@import "base/swiper-bundle.min";
+@import "base/settings";
+@import "base/vars";
+@import "base/btn";
+// @import "base/media";
+
+// БЭМ-блоки
+@import "blocks/header";
+@import "blocks/hero";
+@import "blocks/advantage";
+@import "blocks/products";
+@import "blocks/benefits";
+@import "blocks/bestseller";
+@import "blocks/popular-brends";
+@import "blocks/offers";
+@import "blocks/about-us";
